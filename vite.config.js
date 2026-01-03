@@ -1,6 +1,5 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import { Analytics } from '@vercel/analytics/next'
 import tailwindcss from '@tailwindcss/vite'
 import { resolve, dirname } from 'path'
 import { fileURLToPath } from 'url'
